@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "398298713009",
+    "project_id": "bhook-6d208",
+    "storage_bucket": "bhook-6d208.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:398298713009:android:17e83dcebfb4be7a1d0b90",
+        "android_client_info": {
+          "package_name": "com.example.bhook"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDLFpwAbtoOxpEuepGWi5N7kvlJJe5TC4c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

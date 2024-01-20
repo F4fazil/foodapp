@@ -1,0 +1,41 @@
+[
+  {
+    "name": "Cheese Burger",
+    "path": "data/products/beef.jpg",
+    "description":"Mighty Cheese burger with mayo and garlic sauce!!",
+    "price": "$6"
+  },
+  {
+
+    "name": "Black-bean-Donut",
+    "path": "data/header/donut.jpg",
+    "description":"Empower your team to engage in more strategic conversations ",
+    "price": "$4"
+  },
+  {
+
+    "name": "Chinese",
+    "path": "data/products/chinese.jpg",
+    "description":"Chinese food staples such as rice, \nsoy sauce, noodles, tea, chili oil, and tofu,",
+    "price": "$8"
+  },
+  {
+
+    "name": "Italian foodie",
+    "path": "data/products/italian.jpg",
+    "description":"A comprehensive site for those who love Italian cuisine. IFF contains hundreds of recipes, cooking tips, and stories about life in Umbria.",
+    "price": "$5"
+  },
+  {
+    "name": " cheese pizza",
+    "path": "data/products/pizza.jpg",
+    "description":"Malai Boti Pizza,Kabab Stuffer Pizza,Pizza Sandwich · Flaming Pasta. ",
+    "price": "2"
+  },
+  {
+    "name": "louis sandwich",
+    "path": "data/products/sandwich.jpg",
+    "description":"A special dish from western",
+    "price": "$12"
+  }
+]

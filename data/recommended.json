@@ -1,0 +1,35 @@
+[
+  {
+    "name": "BeefBurger",
+    "path": "data/recommended/beef.jpg",
+    "description":" Cheese Beef Burger\n with sauces",
+    "price": "$6.9"
+  },
+  {
+
+    "name": "Brownie Pizza",
+    "path": "data/recommended/burger.jpg",
+    "description":"A Small pizza\n with diffo taste",
+    "price": "$4.00"
+  },
+  {
+
+    "name": "Maloven Icw",
+    "path": "data/recommended/chinese.jpg",
+    "description":"Yummy!Taste\n is so good",
+    "price": "$7.09"
+  },
+  {
+
+    "name": "Fries",
+    "path": "data/recommended/italian.jpg",
+    "description":"Dipped with\n sauces!",
+    "price": "$5.10"
+  },
+  {
+    "name": " Capthicno Drink",
+    "path": "data/recommended/pizza.jpg",
+    "description":"Unique taste\n like Appleow",
+    "price": "$7.99"
+  }
+]

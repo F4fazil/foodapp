@@ -1,0 +1,25 @@
+[
+    {
+      "name": "Dessert",
+      "path": "data/header/cake.jpg",
+      "price": "$4"
+    },
+    {
+
+      "name": "Pizzas",
+      "path": "data/header/pizza.jpg",
+      "price": "$3"
+    },
+    {
+
+      "name": "Biscuits",
+      "path": "data/header/donut.jpg",
+      "price": "$5"
+    },
+    {
+
+      "name": "IceCreams",
+      "path": "data/header/iceCream.jpg",
+      "price": "$6"
+    }
+]
