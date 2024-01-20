@@ -1,6 +1,8 @@
 # bhook
 
-A new Flutter project.
+"Bhook: The app to satisfy your hunger quickly! Find tasty dishes from local restaurants, order easily, and get fast deliveries. Pay securely with your card for a hassle-free experience. Enjoy your favorite meals with a simple tap. Bhook makes ordering food easy and convenient. Download now for a delicious and straightforward dining experience!"
+
+
 
 ## Getting Started
 
